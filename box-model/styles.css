@@ -1,0 +1,25 @@
+.titulo {
+    text-align: center;
+    background-color: red;
+    padding: 50px ;
+    margin: 50px;
+    border: 50px ;
+    border-color: green;
+}
+ h2 {
+    text-align: center;
+    background-color: green;
+    padding: 50px;
+    margin: 50px;
+    border: 50 px;
+    border-color: red;
+ }
+
+ p {
+    text-align: center;
+    background-color: orange;
+    padding: 50px;
+    margin: 50px;
+    border: 50px;
+    border-color: green;
+ }
